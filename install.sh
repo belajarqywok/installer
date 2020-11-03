@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-apt install toilet
+apt install figlet
 # install nginx
 apt install nginx-core  
 apt install nginx-extras
@@ -20,6 +20,6 @@ systemctl restart nginx.service
 
 # success
 clear
-toilet success
+figlet success
 echo "========================================="
 systemctl status nginx
