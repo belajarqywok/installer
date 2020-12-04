@@ -1,2 +1,1 @@
-# njingx
-nginx 
+# mempermudah
